@@ -1,0 +1,27 @@
+// ===================================================================================================================
+// ? TIP:  It is recommended to use this file for overriding bootstrap extended variables (_bootstrap-extended/_variables.scss).
+// Copy and paste variables as needed, modify their values, and remove the !default flag.
+// ===================================================================================================================
+
+// COLOR PALETTE DUGG
+// Brand Color & Primary
+$primary: #469CED; // Brand Color, Primary Button, Ikon Utama & Aktif
+
+// Secondary
+$secondary: #F9F8F4; // Latar belakang utama
+$secondary-alt: #D6C4B1; // Latar belakang kedua, section highlight
+
+// Neutral
+$neutral: #2F2F2F; // Teks utama
+$body-color: #2F2F2F; // Warna teks body (abu-abu gelap)
+$headings-color: #2F2F2F; // Warna teks heading (abu-abu gelap)
+
+// Background
+$body-bg: #F9F8F4; // Latar belakang utama
+$paper-bg: #fff; // Background paper/card
+
+// Warna Tambahan (optional, jika dibutuhkan)
+$info: #469CED; // Info pakai brand color
+$warning: #D6C4B1; // Section highlight
+$dark: #2F2F2F; // Warna gelap (teks utama)
+$light: #F9F8F4; // Warna terang (latar utama)

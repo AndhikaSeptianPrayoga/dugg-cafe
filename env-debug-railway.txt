@@ -1,0 +1,44 @@
+# EMERGENCY DEBUG ENVIRONMENT VARIABLES for Railway
+# Delete ALL current variables in Railway, then add ONLY these:
+
+# CRITICAL - Laravel Core
+APP_NAME="Dugg Coffee"
+APP_ENV=production
+APP_DEBUG=true
+APP_KEY=base64:XrYHMIlbEatzKL9xMjTVqVw48TzMif++m6Yd0Z27RGM=
+APP_URL=https://web-production-10ac5.up.railway.app
+
+# CRITICAL - Logging  
+LOG_CHANNEL=stderr
+LOG_LEVEL=debug
+
+# DATABASE - MySQL Configuration
+DB_CONNECTION=mysql
+# MySQL variables will be automatically provided by Railway MySQL service:
+# MYSQLHOST (auto from Railway)
+# MYSQLPORT (auto from Railway)  
+# MYSQLDATABASE (auto from Railway)
+# MYSQLUSER (auto from Railway)
+# MYSQLPASSWORD (auto from Railway)
+
+# BASIC CONFIG
+CACHE_DRIVER=file
+SESSION_DRIVER=file
+QUEUE_CONNECTION=sync
+
+# DISABLE FEATURES that might cause issues
+BROADCAST_DRIVER=log
+MAIL_MAILER=log
+
+# ============================================
+# STEP BY STEP INSTRUCTIONS:
+# ============================================
+# 1. PASTIKAN MySQL service sudah running di Railway dashboard
+# 2. Go to Railway → Your Service → Variables tab
+# 3. DELETE ALL existing variables
+# 4. Add ONLY the variables above ONE BY ONE
+# 5. Make sure APP_URL matches your actual Railway domain!
+# 6. PASTIKAN MySQL variables (MYSQLHOST, etc.) muncul otomatis
+# 7. Redeploy
+# 
+# Jika MySQL variables tidak muncul otomatis, restart MySQL service dulu! 
