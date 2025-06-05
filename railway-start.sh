@@ -11,7 +11,13 @@ php artisan config:cache
 php artisan route:cache
 php artisan view:cache
 
-# Build assets untuk production
+# Install dependencies jika belum ada
+npm install
+
+# Jalankan Vite dev server di background
+npm run dev -- --host=0.0.0.0 --port=5173 &
+
+# Build assets untuk production (fallback)
 npm run build
 
 # Jalankan web server
