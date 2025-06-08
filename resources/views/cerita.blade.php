@@ -87,11 +87,11 @@
                             <div class="carousel-track d-flex justify-content-center align-items-center gap-4 transition-all" style="transform: translateX(0); transition: transform 0.3s ease;">
                                 <!-- Card 1 -->
                                 <div class="carousel-card" style="width: 320px; height: 400px; border-radius: 10px; opacity: 0.7; transform: scale(0.8); transition: all 0.3s ease; overflow: hidden;">
-                                    <img src="/assets/img/image/cerita/cerita1.jpg" alt="Dugg Story 1" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
+                                    <img src="/assets/img/image/cerita/cerita1.JPG" alt="Dugg Story 1" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
                                 </div>
                                 <!-- Card 2 (Active/Center) -->
                                 <div class="carousel-card active" style="width: 400px; height: 500px; border-radius: 10px; opacity: 1; transform: scale(1); transition: all 0.3s ease; overflow: hidden;">
-                                    <img src="/assets/img/image/cerita/cerita2.jpg" alt="Dugg Story 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
+                                    <img src="/assets/img/image/cerita/cerita2.JPG" alt="Dugg Story 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
                                 </div>
                                 <!-- Card 3 -->
                                 <div class="carousel-card" style="width: 320px; height: 400px; border-radius: 10px; opacity: 0.7; transform: scale(0.8); transition: all 0.3s ease; overflow: hidden;">
@@ -99,15 +99,15 @@
                                 </div>
                                 <!-- Card 4 (Hidden) -->
                                 <div class="carousel-card" style="width: 320px; height: 400px; border-radius: 10px; opacity: 0.7; transform: scale(0.8); transition: all 0.3s ease; display: none; overflow: hidden;">
-                                    <img src="/assets/img/image/cerita/cerita4.jpg" alt="Dugg Story 4" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
+                                    <img src="/assets/img/image/cerita/cerita4.JPG" alt="Dugg Story 4" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
                                 </div>
                                 <!-- Card 5 (Hidden) -->
                                 <div class="carousel-card" style="width: 320px; height: 400px; border-radius: 10px; opacity: 0.7; transform: scale(0.8); transition: all 0.3s ease; display: none; overflow: hidden;">
-                                    <img src="/assets/img/image/cerita/cerita1.jpg" alt="Dugg Story 5" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
+                                    <img src="/assets/img/image/cerita/cerita1.JPG" alt="Dugg Story 5" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
                                 </div>
                                 <!-- Card 6 (Hidden) -->
                                 <div class="carousel-card" style="width: 320px; height: 400px; border-radius: 10px; opacity: 0.7; transform: scale(0.8); transition: all 0.3s ease; display: none; overflow: hidden;">
-                                    <img src="/assets/img/image/cerita/cerita2.jpg" alt="Dugg Story 6" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
+                                    <img src="/assets/img/image/cerita/cerita2.JPG" alt="Dugg Story 6" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; aspect-ratio: 4/5;">
                                 </div>
                             </div>
                         </div>
