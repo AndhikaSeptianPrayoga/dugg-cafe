@@ -208,7 +208,7 @@
                 Ditemani colokan, suasana tenang, dan kopi yang nemenin fokusmu.</p>
             </div>
             <div class="col-md-6 image-container" style="margin-top: 100px;">
-                <img src="/assets/img/image/Lokasi/meet.webp" alt="Meeting Room" class="img-1-1-ratio">
+                <img src="/assets/img/image/Lokasi/meet.WEBP" alt="Meeting Room" class="img-1-1-ratio">
             </div>
         </div>
 
@@ -220,7 +220,7 @@
                 Main bareng temen, healing habis kelas atau kerja. Siap push rank juga boleh.</p>
             </div>
             <div class="col-md-6 image-container" style="margin-top: 100px;">
-                <img src="/assets/img/image/Lokasi/game.webp" alt="Game Room" class="img-1-1-ratio">
+                <img src="/assets/img/image/Lokasi/game.WEBP" alt="Game Room" class="img-1-1-ratio">
             </div>
         </div>
 
