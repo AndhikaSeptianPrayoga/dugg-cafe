@@ -19,7 +19,7 @@
         left: 0;
         right: 0;
         bottom: 0;
-        background: url('/assets/img/image/lokasi/Hero.png') center/cover;
+        background: url('/assets/img/image/Lokasi/Hero.png') center/cover;
 
     }
 
@@ -208,7 +208,7 @@
                 Ditemani colokan, suasana tenang, dan kopi yang nemenin fokusmu.</p>
             </div>
             <div class="col-md-6 image-container" style="margin-top: 100px;">
-                <img src="/assets/img/image/lokasi/meet.webp" alt="Meeting Room" class="img-1-1-ratio">
+                <img src="/assets/img/image/Lokasi/meet.webp" alt="Meeting Room" class="img-1-1-ratio">
             </div>
         </div>
 
@@ -220,14 +220,14 @@
                 Main bareng temen, healing habis kelas atau kerja. Siap push rank juga boleh.</p>
             </div>
             <div class="col-md-6 image-container" style="margin-top: 100px;">
-                <img src="/assets/img/image/lokasi/game.webp" alt="Game Room" class="img-1-1-ratio">
+                <img src="/assets/img/image/Lokasi/game.webp" alt="Game Room" class="img-1-1-ratio">
             </div>
         </div>
 
         {{-- Kolam Ikan --}}
         <div class="mb-5" style="margin-top: 100px; ">
             <div class="image-container" style="margin-top: 100px;">
-                <img src="/assets/img/image/lokasi/fish.png" alt="Kolam Ikan" class="img-kolam-ratio">
+                <img src="/assets/img/image/Lokasi/fish.png" alt="Kolam Ikan" class="img-kolam-ratio">
             </div>
             <h4  class="fw-bold text-center" style="color: #3a7bd5; margin-top: 100px; font-size: 3rem;">Kolam Ikan</h4>
             <p class="text-center">
@@ -252,22 +252,22 @@
             <h5 class="text-center text-white mb-4">Follow Kami di Instagram</h5>
             <div class="row g-3 margin-top: 100px;">
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/1.jpg" class="img-1-1-ratio" alt="IG 1" style="max-width: 100%;">
+                    <img src="/assets/img/image/Lokasi/1.jpg" class="img-1-1-ratio" alt="IG 1" style="max-width: 100%;">
                 </div>
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/2.png" class="img-1-1-ratio" alt="IG 2" style="max-width: 100%;">
+                    <img src="/assets/img/image/Lokasi/2.png" class="img-1-1-ratio" alt="IG 2" style="max-width: 100%;">
                 </div>
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/3.png" class="img-1-1-ratio" alt="IG 3" style="max-width: 100%;">
+                    <img src="/assets/img/image/Lokasi/3.png" class="img-1-1-ratio" alt="IG 3" style="max-width: 100%;">
                 </div>
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/4.png" class="img-1-1-ratio" alt="IG 4" style="max-width: 100%;">
+                    <img src="/assets/img/image/Lokasi/4.png" class="img-1-1-ratio" alt="IG 4" style="max-width: 100%;">
                 </div>
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/5.png" class="img-1-1-ratio" alt="IG 5" style="max-width: 100%;">
+                    <img src="/assets/img/image/Lokasi/5.png" class="img-1-1-ratio" alt="IG 5" style="max-width: 100%;">
                 </div>
                 <div class="col-4">
-                    <img src="/assets/img/image/lokasi/6.jpg" class="img-1-1-ratio" alt="IG 6" style="max-width: 100%; " >
+                    <img src="/assets/img/image/Lokasi/6.jpg" class="img-1-1-ratio" alt="IG 6" style="max-width: 100%; " >
                 </div>
             </div>
         </div>

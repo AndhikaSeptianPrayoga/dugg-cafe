@@ -386,9 +386,9 @@
     
     {{-- Background Images --}}
     <div class="slider-images position-absolute top-0 start-0 w-100 h-100">
-      <div class="slider-image active" data-category="fish-pond" style="background: url('/assets/img/image/lokasi/fish.JPG') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
-      <div class="slider-image" data-category="meeting-room" style="background: url('/assets/img/image/lokasi/meet.WEBP') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
-      <div class="slider-image" data-category="game-room" style="background: url('/assets/img/image/lokasi/game.WEBP') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
+      <div class="slider-image active" data-category="fish-pond" style="background: url('/assets/img/image/Lokasi/fish.JPG') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
+      <div class="slider-image" data-category="meeting-room" style="background: url('/assets/img/image/Lokasi/meet.WEBP') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
+      <div class="slider-image" data-category="game-room" style="background: url('/assets/img/image/Lokasi/game.WEBP') center center/cover no-repeat; transition: opacity 0.6s ease;"></div>
     </div>
     
     {{-- Overlay --}}
